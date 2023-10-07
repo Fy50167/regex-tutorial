@@ -55,4 +55,4 @@ All quantifiers used in this regex are greedy, meaning that it looks for as many
 
 ## Author
 
-This gist was written by Francis Yang. You can find my Github profile over here: 
+This gist was written by Francis Yang. You can find my Github profile over here: [Github Profile](https://github.com/Fy50167)
